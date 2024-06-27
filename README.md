@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Linlong</h1>
-<h3 align="center">A passionate frontend developer from China study @UCSB.</h3>
+<h3 align="center">A passionate frontend developer from China study @UCLA.</h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lllllong7&theme=great-gatsby&show_icons=true" style="float: right">
 
-- 🔭 I’m currently studying at UCSB majoring in Financial Mathematics and Statistics
+- 🔭 I’m currently studying at UCLA majoring in Mathematics/Economics
 <p></p>
 
 - 🌱 I’m currently **learning Javascript, python, C++**

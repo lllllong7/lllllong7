@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying at UCLA majoring in Mathematics/Economics
 <p></p>
 
-- 🌱 I’m currently **learning Javascript, python, C++**
+- 🌱 I’m currently **learning python, C++**
 <p></p>
 
-- 📫 How to reach me: *linlongw7@gmail.com*
+- 📫 How to reach me: *linlong@g.ucla.edu*
 <p></p>
 
 - ⚡ Fun fact: **I love Kpop and dancing!**
